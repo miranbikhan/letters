@@ -1,0 +1,8 @@
+Ruben = R
+Bilal = L
+Yassine = Y
+Robbe = E
+Chun = C
+Miran = M
+Kenji = I
+Kobe = K
