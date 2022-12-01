@@ -6,3 +6,4 @@ Chun = C
 Miran = M
 Kenji = I
 Kobe = K
+Dieter-sensei = D
