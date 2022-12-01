@@ -21,6 +21,4 @@ def drawnK():
     t.forward(100)
 
     time.sleep(3)
-
-#dit uit commentaar helen om te testen of in eigen bestand gebruiken
 drawnK()
