@@ -1,7 +1,7 @@
 import turtle
 t=turtle.Turtle()
 
-def R():
+def drawn():
     t.penup()
     t.goto(-30,50) #centering in the screen
     t.pendown()
