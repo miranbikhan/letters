@@ -4,6 +4,7 @@ t=turtle.Turtle()
 def draw():
     t.pensize(10)
     t.pencolor("red")
+    t.forward(10)
     t.right(-90)
     t.forward(150)
     t.right(90)
